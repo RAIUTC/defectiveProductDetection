@@ -5,7 +5,7 @@ import cv2
 import os
 
 # 영상 데이터 경로
-video_path = 'C:/Users/82109/Desktop/2020-2/캡스톤/영상데이터/캡스��
+video_path = ''
 # 프레임 이미지 데이터 저장 경로
 image_path = 'C:/Users/82109/Desktop/2020-2/캡스톤/영상�
 # 프레임 이미지 데이터 저장 경로가 없으면 생성
